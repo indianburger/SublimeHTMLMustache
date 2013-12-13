@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\{\{> ${1:partial} \}\}
+\{\{>${1:partial}\}\}
 ]]></content>
     <tabTrigger>mp</tabTrigger>
     <description>Mustache Partial</description>
